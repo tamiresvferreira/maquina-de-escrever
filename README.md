@@ -2,6 +2,10 @@
 
 Uma máquina de escrever antiga no navegador, feita em um único arquivo HTML, sem dependências.
 
+## Ver online
+
+[tamiresvferreira.github.io/maquina-de-escrever](https://tamiresvferreira.github.io/maquina-de-escrever/)
+
 ## O que ela faz
 
 - **Som de datilografia** sintetizado em tempo real (Web Audio API): tecla, espaço, retrocesso, campainha de fim de linha e retorno do carro.
