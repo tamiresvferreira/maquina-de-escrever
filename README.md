@@ -1,4 +1,4 @@
-# Máquina de escrever
+# Datilograf.IA
 
 Uma máquina de escrever antiga no navegador, feita em um único arquivo HTML, sem dependências.
 
